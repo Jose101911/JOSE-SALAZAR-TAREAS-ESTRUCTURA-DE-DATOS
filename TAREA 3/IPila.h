@@ -1,11 +1,4 @@
-/* Universidad de las Fuerzas Armadas 
-     Ciencias de la Computacion
-        Estructura de Datos
 
-Grupo: 3            Integrantes: Kevin Cabezas, Martin Paz 
-Fecha: 00/10/2026                Erick Sabando, Adrian Toapanta
-        Tema: Pilas
-*/
 
 // Clase Interfaz IPila.h  
 
